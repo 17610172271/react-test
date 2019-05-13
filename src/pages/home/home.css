@@ -1,0 +1,21 @@
+#tab-bar.demo {
+    display: flex;
+    flex-direction: column;
+}
+
+#tab-bar .demoName {
+    height: 40px;
+}
+
+#tab-bar .demo-preview-item .am-tab-bar {
+    background-color: white;
+}
+
+.space-carousel {
+    padding: 16px;
+    background: #DEF1E5;
+    overflow: hidden;
+}
+.home-carousel .am-wingblank.am-wingblank-lg {
+    margin: 0;
+}
